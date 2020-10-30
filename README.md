@@ -36,8 +36,12 @@
 <br />
 <br />
 
+<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=manik-roy&show_icons=true"/>
 
-[website]: https://ah-institute.github.io/abuhasan/
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
+
+
+[website]: https://abu-hasan-me.web.app/
 [linkedin]: https://ah-institute.github.io/abuhasan/
 [webdevplaylist]: https://ah-institute.github.io/abuhasan/
 [jsplaylist]: https://ah-institute.github.io/abuhasan/
