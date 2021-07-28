@@ -7,9 +7,23 @@
 - 🙋‍♂️ 2020 Goals: Learn React Redux, Vue, Node, Php, 
 - ⚡ Hobbies: I like cycling, traveling, watching movies, coding development the most
 
+
+### 🏆 Github Stats
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=AH-INSTITUTE&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AH-INSTITUTE&theme=dark&show_icons=true&hide_border=true" width="48%" >
+  
+  <p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AH-INSTITUTE&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+  </p>
+
+
+### Total Visitors 👀
+<img src="https://profile-counter.glitch.me/AH-INSTITUTE/count.svg" alt="Visitor Count"/>
+
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ahinstitute)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abuhasan.institute) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14534969/abu-hasan)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ahinstitute)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.abuhasan) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14534969/abu-hasan)
 
 <br />
 
