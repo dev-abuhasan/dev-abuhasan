@@ -52,8 +52,8 @@
 
 
 [website]: https://abu-hasan-me.web.app/
-[linkedin]: https://ah-institute.github.io/abuhasan/
-[webdevplaylist]: https://ah-institute.github.io/abuhasan/
-[jsplaylist]: https://ah-institute.github.io/abuhasan/
-[cssplaylist]: https://ah-institute.github.io/abuhasan/
-[reactplaylist]: https://ah-institute.github.io/abuhasan/
+[linkedin]: https://abu-hasan-me.web.app/
+[webdevplaylist]: https://abu-hasan-me.web.app/
+[jsplaylist]: https://abu-hasan-me.web.app/
+[cssplaylist]: https://abu-hasan-me.web.app/
+[reactplaylist]: https://abu-hasan-me.web.app/
