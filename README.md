@@ -1,5 +1,5 @@
 <br />
-<img src="https://i.ibb.co/jyT3mQH/png-gif.gif" align="left" width="200" style="margin-right: 20px;" alt="ful1e5 with halo"/>
+<img src="https://camo.githubusercontent.com/c0c27100620a7bdcdc4034280a50861f54aab5c113b1d445fee3e2718d17bd90/68747470733a2f2f692e696d6775722e636f6d2f36386d624d42672e676966" align="left" width="250" style="margin-right: 20px;" alt="ful1e5 with halo"/>
 
 ### Hi there, 🙋‍♂ I'm [Abu Hasan][website] 👋
 
