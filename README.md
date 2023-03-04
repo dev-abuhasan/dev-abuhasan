@@ -32,9 +32,9 @@
 <br />
 
 
-[website]: https://abu-hasan-me.web.app/
-[linkedin]: https://abu-hasan-me.web.app/
-[webdevplaylist]: https://abu-hasan-me.web.app/
-[jsplaylist]: https://abu-hasan-me.web.app/
-[cssplaylist]: https://abu-hasan-me.web.app/
-[reactplaylist]: https://abu-hasan-me.web.app/
+[website]: https://abuhasan.vercel.app/
+[linkedin]: https://abuhasan.vercel.app/
+[webdevplaylist]: https://abuhasan.vercel.app/
+[jsplaylist]: https://abuhasan.vercel.app/
+[cssplaylist]: https://abuhasan.vercel.app/
+[reactplaylist]: https://abuhasan.vercel.app/
