@@ -1,13 +1,18 @@
 <br />
 <img src="/git emoji.gif" align="left" width="250" style="margin-right: 20px;" alt="ful1e5 with halo"/>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### Hi there, 🙋‍♂ I'm [Abu Hasan][website] 👋
 ![Preview1](./logo.png)
-
-<br />
-<br />
-<br />
-<br />
 
 #### Full Stack developer
 
